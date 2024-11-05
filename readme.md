@@ -29,4 +29,9 @@ Here are some examples for misogynistic words:
 “You’re not like other girls; you’re smart and capable.”
 “Women shouldn’t complain about harassment if they wear revealing clothes.”
 
-Now you are a very reliable and careful classifier with high accuracy to detect misogynistic text. Please tell me if the following words are misogynistic or not
+Now you are a very reliable and careful classifier with high accuracy to detect misogynistic text. Please tell me if the following words are misogynistic or not. Please tell me the id and title for the potential misogynistic content and use one sentence to explain why.
+
+## Results
+
+https://chatgpt.com/share/6729d7f9-2300-8010-9d16-48fc52721792
+
