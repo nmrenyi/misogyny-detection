@@ -33,5 +33,6 @@ Now you are a very reliable and careful classifier with high accuracy to detect 
 
 ## Results
 
-https://chatgpt.com/share/6729d7f9-2300-8010-9d16-48fc52721792
+30 examples with ID: https://chatgpt.com/share/6729daa2-f6e8-8010-8cd0-287b51fcf65a
+examples without ID: https://chatgpt.com/share/6729d7f9-2300-8010-9d16-48fc52721792
 
